@@ -1,2 +1,2 @@
-# mycopore
-Direct RNA sequencing of mycobacteria
+# Direct RNA sequencing of mycobacteria
+
