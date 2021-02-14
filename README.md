@@ -1,6 +1,7 @@
 # Direct RNA sequencing of mycobacteria
 
 Peter Polgar, ISMB, University College London
+
 Supervisors: Dr Kristine Arnvig, Dr Irilenia Nobeli
 
 ## Repository information
